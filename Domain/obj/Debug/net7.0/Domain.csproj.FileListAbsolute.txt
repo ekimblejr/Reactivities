@@ -1,0 +1,12 @@
+/Users/ekimblejr/Development/udemy/Reactivities/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/ekimblejr/Development/udemy/Reactivities/Domain/bin/Debug/net7.0/Domain.dll
+/Users/ekimblejr/Development/udemy/Reactivities/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/ekimblejr/Development/udemy/Reactivities/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/ekimblejr/Development/udemy/Reactivities/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekimblejr/Development/udemy/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/ekimblejr/Development/udemy/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/ekimblejr/Development/udemy/Reactivities/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/ekimblejr/Development/udemy/Reactivities/Domain/obj/Debug/net7.0/Domain.dll
+/Users/ekimblejr/Development/udemy/Reactivities/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/ekimblejr/Development/udemy/Reactivities/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/ekimblejr/Development/udemy/Reactivities/Domain/obj/Debug/net7.0/ref/Domain.dll

@@ -1,0 +1,17 @@
+/Users/ekimblejr/Development/udemy/Reactivities/Application/bin/Debug/net7.0/Application.deps.json
+/Users/ekimblejr/Development/udemy/Reactivities/Application/bin/Debug/net7.0/Application.dll
+/Users/ekimblejr/Development/udemy/Reactivities/Application/bin/Debug/net7.0/Application.pdb
+/Users/ekimblejr/Development/udemy/Reactivities/Application/bin/Debug/net7.0/Domain.dll
+/Users/ekimblejr/Development/udemy/Reactivities/Application/bin/Debug/net7.0/Persistence.dll
+/Users/ekimblejr/Development/udemy/Reactivities/Application/bin/Debug/net7.0/Domain.pdb
+/Users/ekimblejr/Development/udemy/Reactivities/Application/bin/Debug/net7.0/Persistence.pdb
+/Users/ekimblejr/Development/udemy/Reactivities/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+/Users/ekimblejr/Development/udemy/Reactivities/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekimblejr/Development/udemy/Reactivities/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+/Users/ekimblejr/Development/udemy/Reactivities/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+/Users/ekimblejr/Development/udemy/Reactivities/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+/Users/ekimblejr/Development/udemy/Reactivities/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+/Users/ekimblejr/Development/udemy/Reactivities/Application/obj/Debug/net7.0/Application.dll
+/Users/ekimblejr/Development/udemy/Reactivities/Application/obj/Debug/net7.0/refint/Application.dll
+/Users/ekimblejr/Development/udemy/Reactivities/Application/obj/Debug/net7.0/Application.pdb
+/Users/ekimblejr/Development/udemy/Reactivities/Application/obj/Debug/net7.0/ref/Application.dll
